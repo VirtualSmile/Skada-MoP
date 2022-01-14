@@ -15,7 +15,7 @@ Currently only working on enUS / enGB clients due to lack of translations.
 2. Class specialisation icons.
 
 # Help
-1. Make sure you disable ElvUI_AddOnSkins for Skada. (ElvUI > Plugins > AddOnSkins > Un-tick Skada)
+1. Try disabling ElvUI_AddOnSkins for Skada. (ElvUI > Plugins > AddOnSkins > Un-tick Skada)
 
 2. Try clearing all Skada config files from your WTF folders.  
 **WTF > Account > Username > SavedVariables > Skada.lua & Skada.lua.bak**  
