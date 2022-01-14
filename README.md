@@ -19,4 +19,4 @@ Currently only working on enUS / enGB clients due to lack of translations.
 
 2. Try clearing all Skada config files from your WTF folders.  
 **WTF > Account > Username > SavedVariables > Skada.lua & Skada.lua.bak**  
-**WTF > Account > Username > Server > Character Name > SavedVariables Skada.lua & Skada.lua.bak**
+**WTF > Account > Username > Realm > Character Name > SavedVariables Skada.lua & Skada.lua.bak**
