@@ -11,4 +11,12 @@ Currently only working on enUS / enGB clients due to lack of translations.
 # To-Do
 1. Identify unit specialisation. This will be hard without third-party libraries (LibInspect) or heavy caching.  
  May have inconsistencies due to different server inspect API cooldowns.
+
 2. Class specialisation icons.
+
+# Help
+1. Make sure you disable ElvUI_AddOnSkins for Skada. (ElvUI > Plugins > AddOnSkins > Un-tick Skada)
+
+2. Try clearing all Skada config files from your WTF folders.  
+**WTF > Account > Username > SavedVariables > Skada.lua & Skada.lua.bak**  
+**WTF > Account > Username > Server > Character Name > SavedVariables Skada.lua & Skada.lua.bak**
