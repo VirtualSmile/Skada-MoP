@@ -1,5 +1,6 @@
 # Skada for MoP (5.4.8)
 My fork of Skada with the parts I liked from "Details!".  
+Probably the most accurate combat meter addon for 5.4.8.  
 Currently only working on enUS / enGB clients due to lack of translations.  
 
 # Extras
