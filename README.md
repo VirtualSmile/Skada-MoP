@@ -13,8 +13,6 @@ Please let me know if there are any issues!
 
 # To-Do
 1. Identify unit specialisation. This will be hard without third-party libraries (LibInspect) or heavy caching.  
- May have inconsistencies due to different server inspect API cooldowns.
-
 2. Class specialisation icons.
 3. Absorb tracking on refreshed auras & damage taken rather than aura removed.
 
