@@ -10,11 +10,11 @@ Please let me know if there are any issues!
 2. Seperate class colour toggles for name and data texts.
 3. Adjustable update rate between 0.05 and 1. **Note: This does impact cpu-usage.**
 4. Smooth texture / bar updates.
+5. Better absorb tracking / logging when aura's are refreshed or removed.
 
 # To-Do
 1. Identify unit specialisation. This will be hard without third-party libraries (LibInspect) or heavy caching.  
 2. Class specialisation icons.
-3. Absorb tracking on refreshed auras & damage taken rather than aura removed.
 
 # Help
 1. Try disabling ElvUI_AddOnSkins for Skada.  
